@@ -1,0 +1,6 @@
+C:\Antra Doc\EF\Contoso\Contoso.Helpers\bin\Debug\Contoso.Helpers.dll
+C:\Antra Doc\EF\Contoso\Contoso.Helpers\bin\Debug\Contoso.Helpers.pdb
+C:\Antra Doc\EF\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.csprojAssemblyReference.cache
+C:\Antra Doc\EF\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.csproj.CoreCompileInputs.cache
+C:\Antra Doc\EF\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.dll
+C:\Antra Doc\EF\Contoso\Contoso.Helpers\obj\Debug\Contoso.Helpers.pdb

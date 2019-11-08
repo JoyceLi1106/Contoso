@@ -1,0 +1,28 @@
+﻿@model List<Contoso.Models.People>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>AllPeople: @ViewBag.PeopleCount</h2>
+<table class="table table-bordered table-dark">
+    <tr>
+        <td>Id</td>
+        <td>LastName</td>
+        <td>FirstName</td>
+        <td>Phone</td>
+        <td>Email</td>
+        <td>City</td>
+    </tr>
+    @foreach (var people in Model)
+    {
+        <tr>
+            <td>@people.Id</td>
+            <td>@people.LastName</td>
+            <td>@people.FirstName</td>
+            <td>@people.Phone</td>
+            <td>@people.Email</td>
+            <td>@people.City</td>
+        </tr>
+    }
+</table>
+

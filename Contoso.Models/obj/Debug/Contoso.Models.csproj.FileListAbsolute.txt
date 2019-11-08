@@ -1,0 +1,12 @@
+C:\Antra Doc\EF\Contoso\Contoso.Models\bin\Debug\Contoso.Models.dll
+C:\Antra Doc\EF\Contoso\Contoso.Models\bin\Debug\Contoso.Models.pdb
+C:\Antra Doc\EF\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csprojAssemblyReference.cache
+C:\Antra Doc\EF\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csproj.CoreCompileInputs.cache
+C:\Antra Doc\EF\Contoso\Contoso.Models\obj\Debug\Contoso.Models.dll
+C:\Antra Doc\EF\Contoso\Contoso.Models\obj\Debug\Contoso.Models.pdb
+C:\Antra Doc\EF\Contoso\Contoso.Models\bin\Debug\Contoso.Models.dll.config
+C:\Antra Doc\EF\Contoso\Contoso.Models\bin\Debug\EntityFramework.dll
+C:\Antra Doc\EF\Contoso\Contoso.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Antra Doc\EF\Contoso\Contoso.Models\bin\Debug\EntityFramework.xml
+C:\Antra Doc\EF\Contoso\Contoso.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Antra Doc\EF\Contoso\Contoso.Models\obj\Debug\Contoso.Models.csproj.CopyComplete
